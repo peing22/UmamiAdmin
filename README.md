@@ -1,4 +1,4 @@
-# DT173G Projekt - Admingränssnitt
+# Umami (admingränssnitt)
 Detta repo innehåller ett admingränssnitt som konsumerar en webbtjänst för att hämta data om användaruppgifter som finns lagrade för en administratör som måste logga in för att kunna använda admingränssnittet. Applikationen konsumerar även webbtjänsten för att hämta data om bordsbokningar, meny och företagspresentation för en restaurang.
 
 Väl inloggad är det även möjligt att
